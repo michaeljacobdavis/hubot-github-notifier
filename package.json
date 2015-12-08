@@ -1,0 +1,28 @@
+{
+  "name": "hubot-github-notifier",
+  "version": "1.0.0",
+  "description": "Github event notifier",
+  "keywords": [
+    "hubot",
+    "github",
+    "slack"
+  ],
+  "main": "index.coffee",
+  "dependencies": {
+    "hubot": ">= 2.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaeljacobdavis/hubot-github-notifier.git"
+  },
+  "author": "Mike Davis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/michaeljacobdavis/hubot-github-notifier/issues"
+  },
+  "homepage": "https://github.com/michaeljacobdavis/hubot-github-notifier#readme"
+}
