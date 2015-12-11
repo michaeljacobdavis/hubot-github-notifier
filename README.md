@@ -10,6 +10,8 @@ This hubot plugin announces changes to github repositories of your choosing.
 
 *NOTE:* If you want to notify multiple rooms, just specify multiple `room` query params `?room=general&room=random`
 
+![](example.gif)
+
 
 ### X event isn't working!
 
