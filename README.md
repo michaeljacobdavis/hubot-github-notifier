@@ -12,6 +12,11 @@ This hubot plugin announces changes to github repositories of your choosing.
 
 ![](example.gif)
 
+### Currently Supported events
+
+- [`pull_request`](https://developer.github.com/v3/activity/events/types/#pullrequestevent): notifies users when an action is taken on a pull request.
+- [`release`](https://developer.github.com/v3/activity/events/types/#releaseevent): notifies users when a new release has been created.
+- [`membership`](https://developer.github.com/v3/activity/events/types/#membershipevent): notifies users when a person is added to or removed from an organization.
 
 ### X event isn't working!
 
